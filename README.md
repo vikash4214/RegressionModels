@@ -1,1 +1,1 @@
-# repository for Coursera _Regression Models_ course prepared by Vikash Kumar
+# Repository for Coursera _Regression Models_ course prepared by Vikash Kumar
